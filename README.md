@@ -1,5 +1,5 @@
 # ionic-5-capacitor-local-notification
-Demo repository for Ionic 5 capacitor local notifications
+Demo repository for Ionic 5 capacitor local notifications. Detailed instruction can be found in blog - [Implement Local Notifications in Ionic 5 with Capacitor](https://enappd.com/blog/local-notifications-in-ionic-5-capacitor/132/)
 
 
 # Explore Enappd Store
