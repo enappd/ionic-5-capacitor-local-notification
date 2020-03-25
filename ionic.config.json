@@ -1,0 +1,8 @@
+{
+  "name": "localnotif",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular"
+}
